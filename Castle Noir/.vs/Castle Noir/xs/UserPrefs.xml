@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{69ECF3C3-E9BF-76CE-EF4D-F9BB0343EA80}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Utility/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy/MeleeEnemy.cs" Line="68" Column="6" />
+      <File FileName="Assets/Scripts/Enemy/EnemyPatrol.cs" Line="13" Column="5" />
+      <File FileName="Assets/Scripts/Enemy/EnemyFireblastHolder.cs" Line="11" Column="2" />
+      <File FileName="Assets/Scripts/Enemy/EnemyProjectile.cs" Line="37" Column="25" />
+      <File FileName="Assets/Scripts/Enemy/EnemyDamage.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/Player Info/Projectile.cs" Line="56" Column="1" />
+      <File FileName="Assets/Scripts/Health/Health.cs" Line="82" Column="31" />
+      <File FileName="Assets/Scripts/Player Info/PlayerRespawn.cs" Line="22" Column="5" />
+      <File FileName="Assets/Scripts/Player Info/PlayerMovement.cs" Line="62" Column="83" />
+      <File FileName="Assets/Scripts/Player Info/PlayerAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Health/HealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Utility/CameraController.cs" Line="26" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Castle Noir" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Health" expanded="True" />
+                <Node name="Utility" expanded="True">
+                  <Node name="CameraController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ab5f350e-14a4-4195-818e-7d76cb8b54ba" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
